@@ -1,0 +1,244 @@
+@media screen and (max-width: 1200px){
+	.top-bar .location p{
+		font-size: 10px;
+	}
+	.top-bar .support span{
+		font-size: 11px;
+	}
+	.login a{
+		font-size: 12px;
+	}
+	.main-menu li{
+		margin:0 18px;
+	}
+	.news-bar li{
+		padding: 0 31px;
+	}
+	.tabs-click li {
+    	margin: 15px 0;
+	}
+	.top-bar .location{
+		width: 32%;
+	}
+	.top-bar .support{
+		width: 55%;
+	}
+	.top-bar .lang{
+		width: 13%;
+	}
+	.top-bar .support span{
+		margin-right: 3px;
+	}
+}
+@media screen and (min-width: 992px){
+	.mob-menu{
+		display: none;
+	}
+	.form-tickets .send-mobile{
+		display: none;
+	}
+}
+@media screen and (max-width: 991px){
+	.top-bar .location{
+		width: 100%;
+		margin: 10px 0;
+	}
+	.top-bar .support{
+		width: 100%;
+		margin: 10px 0;
+	}
+	.top-bar .lang{
+		width: 100%;
+		margin: 10px 0;
+	}
+	.cus-money{
+		width: 100%;
+    	margin: 44px 0 20px 19px;
+    	text-align: left;
+	}
+	.form-tickets .send-mobile{
+		display: block;
+	}
+	.form-tickets input[type="text"]{
+		margin-bottom: 20px;
+	}
+	.form-tickets .send-desktop{
+		display: none !important;
+	}
+	.top-bar .location p {
+    	font-size: 12px;
+	}
+	.top-bar .support span {
+    	font-size: 12px;
+	}
+	.logo{
+		text-align: center;
+	}
+	.pay li{
+		width: 20%;
+	}
+	.about h2{
+		text-align: center;
+	}
+	.services h2{
+		text-align: center;
+	}
+	.main-menu{
+		display: none;
+	}
+	.top-bar .location{
+		text-align: center;
+	}
+	.top-bar .support{
+		text-align: center;
+	}
+	.top-bar .lang{
+		text-align: center;
+	}
+	.news-bar h2{
+		float:none;
+		text-align: center;
+		padding: 7px 0;
+	}
+	.news-bar li{
+		float:none;
+		text-align: center;
+		padding: 7px 0;
+	}
+	.news-bar li:before{
+		display: none;
+	}
+	.about .about-img{
+		text-align: center;
+    	margin-bottom: 30px;
+	}
+	.vpn-item{
+		text-align: center;
+	}
+	.single-vpn, .double-vpn, .multidouble-vpn, .quad-vpn{
+		background-position: top center;
+	}
+	.logo-footer img{
+		width: auto;
+		margin-bottom: 20px;
+	}
+	.form-write-support .btn-write-support{
+		margin-bottom: 26px;
+		text-align: justify;
+		padding: 0;
+	}
+	.form-pay input[type="text"]{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.form-pay select{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.enter-icq input[type="text"]{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.enter-jabber input[type="text"]{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.enter-email input[type="email"]{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.form-settings input[type="checkbox"] {
+    	margin: 3px;
+	}
+	.enter-pass input[type="password"]{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.enter-pass input[type="password"]{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.enter-pass input[type="password"]{
+		width: 100%;
+		margin: 10px 0 10px 0;
+	}
+	.form-settings .save-data{
+		margin-left: 0;
+	}
+	.form-settings .change-pass{
+		margin-left: 0;
+	}
+	.tabs-click li {
+    	margin: 15px 0;
+	}
+}
+@media screen and (max-width: 767px){
+	.news-content .data-content .title-img{
+		float:none;
+		width: 100%;;
+	}
+	.news-content .data-content .heading-title{
+		float:none;
+		margin:20px 0 0 0;
+	}
+	.news-content .data-content .post-data{
+		float:none;
+	}
+	.news-content hr{
+		display: none;
+	}
+}
+@media screen and (max-width: 600px){
+	.block-datapicker span{
+		float:none;
+	}
+	.block-datapicker .data1, .data2{
+		display: block;
+    	position: relative;
+    	float: left;
+    	width: 100%;
+	}
+	.block-datapicker input[type="submit"]{
+		margin-top: 20px;
+		margin-left: 0px;
+	}
+	.block-datapicker img{
+		left: 120px;
+		top:30px;
+		right:0;
+	}
+	.form-up-balance input[type="text"]{
+		width: 100%;
+	}
+	.form-up-balance .dollar{
+		display:none;
+	}
+	.tabs-click li{
+		margin: 15px 0;
+	}
+	.pay li{
+		width: 50%;
+	}
+	.title-vpn{
+		font-size: 40px;
+	}
+	.top-bar .support span{
+		display: block;
+		padding: 10px 0;
+		margin:0;
+	}
+}
+@media screen and (max-width: 450px){
+	
+	.logo img{
+		width: 100%;
+	}
+	.about-img img{
+		width: 100%;
+	}
+	.info-block li{
+		width: 100%;
+		margin: 0;
+	}
+	
+}
